@@ -1,0 +1,4 @@
+2023-08-27 12:05:37,114 FATAL t.T02_Log4J [main] Fatal log!
+2023-08-27 12:05:37,120 ERROR t.T02_Log4J [main] Error log!
+2023-08-27 12:05:37,120 WARN t.T02_Log4J [main] Warn log!
+2023-08-27 12:05:37,120 INFO t.T02_Log4J [main] Info log!
